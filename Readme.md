@@ -4,4 +4,4 @@ In this repository, I put the answers to the exercises of Jadi's introductory Py
 
 
 season two:
-+ __Number guessing game project__ 
++ __Number guessing game project__  [code](E:\Programming\github\python\Exercises of Jadi's introductory Python course\season 2\Number guessing game project.py)
