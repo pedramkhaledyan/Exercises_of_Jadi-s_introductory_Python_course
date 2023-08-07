@@ -5,4 +5,4 @@ In this repository, I put the answers to the exercises of Jadi's introductory Py
 
 season two:
 + __Number guessing game project__  [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/master/season%202/Number%20guessing%20game%20project.py)
-+ __Prime numbers priject__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/master/season%202/prime.py)
++ __Prime numbers project__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/master/season%202/prime.py)
