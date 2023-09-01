@@ -9,3 +9,8 @@ season two:
 + __total point__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/master/season%202/total_point.py)
 + __find older age__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%202/older_age.py)
 + __the number of divisors of number__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%202/Divisor.py)
+  
+season three:
++ __Standardization of Nouns__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/Standardization%20of%20nouns.py)
++ __hello__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/hello.py)
++ __Strings__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/srtrings.py)
