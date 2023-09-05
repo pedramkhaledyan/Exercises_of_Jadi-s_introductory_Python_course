@@ -14,3 +14,5 @@ season three:
 + __Standardization of Nouns__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/Standardization%20of%20nouns.py)
 + __hello__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/hello.py)
 + __Strings__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/srtrings.py)
++ __Small letters, capital letters__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/Small%20letters%2C%20capital%20letters.py)
++ __palindrome__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/palindrome.py)
