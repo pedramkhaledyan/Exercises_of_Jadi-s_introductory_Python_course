@@ -16,3 +16,5 @@ season three:
 + __Strings__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/srtrings.py)
 + __Small letters, capital letters__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/Small%20letters%2C%20capital%20letters.py)
 + __palindrome__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/palindrome.py)
++ __Substring__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/Substring.py)
++ __Nowruz meeting__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/Nowruz%20meeting.py)
