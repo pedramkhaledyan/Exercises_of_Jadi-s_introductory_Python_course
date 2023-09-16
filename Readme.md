@@ -18,3 +18,5 @@ season three:
 + __palindrome__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/palindrome.py)
 + __Substring__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/Substring.py)
 + __Nowruz meeting__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/Nowruz%20meeting.py)
++ __World Liver Championships__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/World%20Liver%20Championships.py)
++ __The price of laptops__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/The%20price%20of%20laptops.py)
