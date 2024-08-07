@@ -22,3 +22,4 @@ season three:
 + __The price of laptops__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/The%20price%20of%20laptops.py)
 + __Vote counting system__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/Vote%20counting%20system.py)
 + __Online translator__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%203/online_translator.py)
++ __square root__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%204/square%20root.py)
