@@ -25,3 +25,6 @@ season three:
 
 season four:
 + __square root__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%204/square%20root.py)
+
+season five:
++ __average calculation__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%205/average%20calculation.py)
