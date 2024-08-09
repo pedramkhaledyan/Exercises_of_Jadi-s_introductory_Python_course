@@ -28,3 +28,8 @@ season four:
 
 season five:
 + __average calculation__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%205/average%20calculation.py)
+
+season six:
+
+final project
++ __rainbow__ [code](https://github.com/pedramkhaledyan/Exercises_of_Jadi-s_introductory_Python_course/blob/main/season%206/Rainbow.py)
